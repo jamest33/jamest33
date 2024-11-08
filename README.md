@@ -5,7 +5,7 @@
   </a>
   
   <a href="https://github.com/jamest33?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jamest33&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@jamest33's github-readme-streak-stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jamest33&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@jamest33's GitHub streak stats"/>
   </a>
 </p>
 
